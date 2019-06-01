@@ -1,42 +1,42 @@
-JavaScript Course Outline
+<h1>JavaScript Course Outline</h1>
 
-Debut
+<h2>Debut</h2>
 
-Prerequisites
+<h3>Prerequisites</h3>
 
 * Getting started
 * Tools and applications needed
 * Helpful resources
 * developer.mozilla.org, Github, Stackoverflow etc.
 
-Hello World!
+<h3>Hello World!</h3>
 
 * Where to write your JavaScript
 * Sending messages to the console
 * Expressions
 
-Variables and Types
+<h3>Variables and Types</h3>
 
 * Declaring and assigning a variable
 * Numbers
 * Strings
 * Booleans
 
-Loops, Objects and Arrays
+<h3>Loops, Objects and Arrays</h3>
 
 * Loops
 * Working with Arrays
 * Objects and references
 * Dates
 
-JavaScript coding style and conventions
+<h3>JavaScript coding style and conventions</h3>
 
 * Variable naming
 * camelCase convention
 * Readability, whitespace, and Comments
 * JavaScript best Practices
 
-Operators and Control Structures
+<h3>Operators and Control Structures</h3>
 
 * Comparisons
 * Arithmetic operators
@@ -46,16 +46,16 @@ Operators and Control Structures
 * Ternary operator
 * Type checking
 
-Functions
+<h3>Functions</h3>
 
 * Basic functions
 * Function arguments
 * Objects, references, and functions
 * Variable scope
 
-Mittelspiel
+<h2>Mittelspiel</h2>
 
-Document Object Model
+<h3>Document Object Model</h3>
 
 * What is the DOM?
 * Working with nodes and elements
@@ -63,7 +63,7 @@ Document Object Model
 * Changing DOM elements
 * Creating DOM elements
 
-Events and Event Listeners
+<h3>Events and Event Listeners</h3>
 
 * JavaScript event handling
 * onClick and onLoad events
@@ -71,55 +71,55 @@ Events and Event Listeners
 * Timers
 * Event bubbling and capturing
 
-Debugging JavaScript
+<h3>Debugging JavaScript</h3>
 
 * Common JavaScript errors
 * Using Inspector
 * Debugging session
 
-Zugzwang
+<h2>Zugzwang</h2>
 
-Dynamic Forms
+<h3>Dynamic Forms</h3>
 
 * Accessing form elements
 * Hiding and showing form sections
 * Form validation
 * Preventing a form from being submitted
 
-JavaScript and CSS
+<h3>JavaScript and CSS</h3>
 
 * Removing and applying CSS classes
 * Changing inline styles
 * Building fly-out and drop-down menus
 
-Advanced JavaScript Features
+<h3>Advanced JavaScript Features</h3>
 
 * Regular expressions
 * Anonymous and self-executing functions
 * Working with AJAX
 * Objects and prototypes
 
-Basics of JavaScript Libraries
+<h3>Basics of JavaScript Libraries</h3>
 
 * Overview of jQuery
 
-Endspiel
+<h2>Endspiel</h2>
 
-Server side JavaScript
+<h3>Server side JavaScript</h3>
 
 * Basics of Node.js
 
-Putting All Together
+<h3>Putting All Together</h3>
 
 * Building REST application
 * Front-end
 * Back-end
 
-Working on individual projects
+<h3>Working on individual projects</h3>
 
-Project presentations
+<h3>Project presentations</h3>
 
-Where to go from here
+<h3>Where to go from here</h3>
 
 * Additional resources
 * Projects you could be involved in
