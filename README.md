@@ -1,8 +1,8 @@
-JavaScript Course Outline
+# JavaScript Course Outline
 
-Debut
+## Debut
 
-Prerequisites
+### Prerequisites
 
 * Getting started
 * Tools and applications needed
