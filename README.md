@@ -1,42 +1,42 @@
-JavaScript Course Outline
+# JavaScript Course Outline
 
-Debut
+## Debut
 
-Prerequisites
+### Prerequisites
 
 * Getting started
 * Tools and applications needed
 * Helpful resources
 * developer.mozilla.org, Github, Stackoverflow etc.
 
-Hello World!
+### Hello World!
 
 * Where to write your JavaScript
 * Sending messages to the console
 * Expressions
 
-Variables and Types
+### Variables and Types
 
 * Declaring and assigning a variable
 * Numbers
 * Strings
 * Booleans
 
-Loops, Objects and Arrays
+### Loops, Objects and Arrays
 
 * Loops
 * Working with Arrays
 * Objects and references
 * Dates
 
-JavaScript coding style and conventions
+### JavaScript coding style and conventions
 
 * Variable naming
 * camelCase convention
 * Readability, whitespace, and Comments
 * JavaScript best Practices
 
-Operators and Control Structures
+### Operators and Control Structures
 
 * Comparisons
 * Arithmetic operators
@@ -46,16 +46,16 @@ Operators and Control Structures
 * Ternary operator
 * Type checking
 
-Functions
+### Functions
 
 * Basic functions
 * Function arguments
 * Objects, references, and functions
 * Variable scope
 
-Mittelspiel
+## Mittelspiel
 
-Document Object Model
+### Document Object Model
 
 * What is the DOM?
 * Working with nodes and elements
@@ -63,7 +63,7 @@ Document Object Model
 * Changing DOM elements
 * Creating DOM elements
 
-Events and Event Listeners
+### Events and Event Listeners
 
 * JavaScript event handling
 * onClick and onLoad events
@@ -71,55 +71,55 @@ Events and Event Listeners
 * Timers
 * Event bubbling and capturing
 
-Debugging JavaScript
+### Debugging JavaScript
 
 * Common JavaScript errors
 * Using Inspector
 * Debugging session
 
-Zugzwang
+## Zugzwang
 
-Dynamic Forms
+### Dynamic Forms
 
 * Accessing form elements
 * Hiding and showing form sections
 * Form validation
 * Preventing a form from being submitted
 
-JavaScript and CSS
+### JavaScript and CSS
 
 * Removing and applying CSS classes
 * Changing inline styles
 * Building fly-out and drop-down menus
 
-Advanced JavaScript Features
+### Advanced JavaScript Features
 
 * Regular expressions
 * Anonymous and self-executing functions
 * Working with AJAX
 * Objects and prototypes
 
-Basics of JavaScript Libraries
+### Basics of JavaScript Libraries
 
 * Overview of jQuery
 
-Endspiel
+## Endspiel
 
-Server side JavaScript
+### Server side JavaScript
 
 * Basics of Node.js
 
-Putting All Together
+### Putting All Together
 
 * Building REST application
 * Front-end
 * Back-end
 
-Working on individual projects
+### Working on individual projects
 
-Project presentations
+### Project presentations
 
-Where to go from here
+### Where to go from here
 
 * Additional resources
 * Projects you could be involved in
