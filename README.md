@@ -1,6 +1,6 @@
-#JavaScript Course Outline
+JavaScript Course Outline
 
-##Debut
+Debut
 
 Prerequisites
 
@@ -53,7 +53,7 @@ Functions
 * Objects, references, and functions
 * Variable scope
 
-##Mittelspiel
+Mittelspiel
 
 Document Object Model
 
@@ -77,7 +77,7 @@ Debugging JavaScript
 * Using Inspector
 * Debugging session
 
-##Zugzwang
+Zugzwang
 
 Dynamic Forms
 
@@ -103,7 +103,7 @@ Basics of JavaScript Libraries
 
 * Overview of jQuery
 
-##Endspiel
+Endspiel
 
 Server side JavaScript
 
