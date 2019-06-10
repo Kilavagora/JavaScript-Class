@@ -10,12 +10,13 @@
 
  </div>
  <script>
-   var v = 10
+   var a = eval("5+3");
+   var b = eval("16/2");
+   var res = a * b;
    
-   echo(16/2*(5+3));
-   echo(3/2 + 128);
-   echo(v + 5);
-   console.log("Foo, bar.");
+   echo(res);
+   
+   
  </script>
 </body>
 </html>
