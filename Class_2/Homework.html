@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <title>A sample page</title>
+  <script src="helper.js"></script>
+</head>
+<body>
+  <div id="main">
+
+  </div>
+  <script>
+	let birth = prompt("YYYY-MM-DD");
+	//let birth = "1980-05-28";
+	var DoBirth = new Date(birth);
+	var ToDay = Date.now();
+	var splat = (ToDay - DoBirth);
+	echo("You are " + Math.floor(splat / (1000 * 60 * 60 * 24)) + " Days Old!");
+	
+	
+  </script>
+</body>
+</html>

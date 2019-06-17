@@ -11,7 +11,11 @@
   </div>
   <script>
     let DoBY = prompt("What is your birth year");
-	echo("Birth year: " + DoBY);
+	var today = new Date();
+    var birthDate = new Date(DoBY);
+    var age = today.getFullYear() - (birthDate.getFullYear() + 1);
+
+	echo("Age (Assuming you've had a birthday already): " + age);
   </script>
 </body>
 </html>
