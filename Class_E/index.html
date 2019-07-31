@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Event Bubbling and Capturing</title>
+
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+    integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <style>
+    .jumbotron {
+      padding-top: 6rem;
+      padding-bottom: 6rem;
+      margin-bottom: 0;
+      background-color: #fff;
+    }
+
+    .wrapper {
+      min-height: 50rem;
+      /* Can be removed; just added for demo purposes */
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+      background-color: #f7f7f7;
+    }
+
+    footer {
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+    }
+
+    footer p {
+      margin-bottom: .25rem;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="navbar navbar-expand-md navbar-dark bg-dark">
+    <div class="container d-flex justify-content-between">
+      <a href="#" class="navbar-brand">Event Bubbling and Capturing</a>
+    </div>
+  </div>
+
+  <div class="wrapper text-muted">
+    <div class="container">
+      <div class="row">
+        <div class="offset-md-3 col-md-6">
+          <div class="card">
+            <div id="grandparent" class="card-block">
+              <h4 class="card-title">Grandparent</h4>
+              <p class="card-text">Some example text</p>
+              <div id="parent" class="alert alert-success" role="alert">
+                <h4 class="alert-heading">Parent</h4>
+                <p>Another example text within the green box.</p>
+                <button id="child" type="button" class="btn btn-primary btn-lg">Child</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="text-muted">
+    <div class="container">
+      <p class="float-right">
+        <a href="#">Back to top</a>
+      </p>
+      <p>&copy; Educatio Inc.</p>
+    </div>
+  </footer>
+  <script>
+    (function () {
+
+    })();
+  </script>
+</body>
+
+</html>
