@@ -8,6 +8,6 @@
 
 ## Homework
 
-1. (7 pts) Display the corresponding errors for the form above inside the alert box and add class has-danger to the form-group divs to highlight the inputs with errors.
+1. (7 pts) Display the corresponding errors for the form above inside the alert box and add class is-invalid to the input to highlight the inputs with errors.
 
 P.S. Create the separate files for each assignment and homework. Create two branches, one for assignments and one for homework. Push your changes to the corresponding Github branches. Create pull requests to your master.
